@@ -3,7 +3,7 @@
 .header {
     display: grid;
     grid-template-columns: 1fr;
-    background-color: red;
+    background-color: blue;
 }
 
 .boxwrapper{
@@ -67,7 +67,7 @@
             grid-template-columns: 1fr;
         }
         .footerwrapper{
-            grid-template-columns: 1fr;
+            grid-template-columns: 1fr; 
         }
 
 }
